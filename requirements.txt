@@ -6,4 +6,6 @@ pandas
 tsfresh
 google-generativeai
 
-en_core_web_sm @ https://www.google.com/search?q=https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+---!!! THIS IS THE FIX !!!---
+
+en_core_web_sm @ https://www.google.com/url?sa=E&source=gmail&q=https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
