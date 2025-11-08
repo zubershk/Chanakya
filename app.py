@@ -250,7 +250,7 @@ if ner_model and rl_model and llm_model:
                 1: "A_3: Tax Policy: STABLE",
                 2: "A_2: Infrastructure Investment Level: HIGH",
                 3: "A_2: Infrastructure Investment Level: MEDIUM",
-                4. "A_2: Infrastructure Investment Level: LOW"
+                4: "A_2: Infrastructure Investment Level: LOW"
             }
             action_label = ACTION_LABELS.get(int(numerical_action), "A_5: Unknown Action")
 
